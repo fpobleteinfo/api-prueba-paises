@@ -1,0 +1,12 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  background-image: url(/src/assets/img/bg.avif);
+}
+.banner {
+  width: 50%;
+  padding-bottom: 2rem;
+}
+.UN {
+  padding: 20px;
+}
